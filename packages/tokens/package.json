@@ -1,6 +1,6 @@
 {
   "name": "@lm-ignite/ignite-tokens",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
