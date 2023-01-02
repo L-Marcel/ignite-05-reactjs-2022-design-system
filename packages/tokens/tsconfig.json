@@ -1,0 +1,4 @@
+{
+  "extends": "@lm-ignite/ts-config/base.json",
+  "include": ["src"]
+}
