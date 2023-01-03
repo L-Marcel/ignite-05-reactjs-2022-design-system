@@ -37,7 +37,7 @@
       <li id="checked"><p>TextArea;</p></li>
       <li id="checked"><p>TextInput;</p></li>
       <li id="checked"><p>Toast;</p></li>
-      <li id="checked"><p>Tooltip;</p></li>
+      <li id="checked"><p>Tooltip.</p></li>
     </ul>
   </div>
 </div>

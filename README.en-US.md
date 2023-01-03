@@ -38,27 +38,7 @@
       <li id="checked"><p>TextArea;</p></li>
       <li id="checked"><p>TextInput;</p></li>
       <li id="checked"><p>Toast;</p></li>
-      <li id="checked"><p>Tooltip;</p></li>
-    </ul>
-  </div>
-</div>
-
-<div id="grid">
-  <div id="grid-item">
-    <h2>O que <span>fiz</span>?</h2>
-    <p>Desenvolvi um modelo um <span>design system</span> em um <span>monorepo</span>, o qual contém os seguintes componentes:</p>
-    <ul>
-      <li id="checked"><p>Text;</p></li>
-      <li id="checked"><p>Box;</p></li>
-      <li id="checked"><p>Button;</p></li>
-      <li id="checked"><p>Checkbox;</p></li>
-      <li id="checked"><p>Heading;</p></li>
-      <li id="checked"><p>MultiStep;</p></li>
-      <li id="checked"><p>Avatar;</p></li>
-      <li id="checked"><p>TextArea;</p></li>
-      <li id="checked"><p>TextInput;</p></li>
-      <li id="checked"><p>Toast;</p></li>
-      <li id="checked"><p>Tooltip;</p></li>
+      <li id="checked"><p>Tooltip.</p></li>
     </ul>
   </div>
 </div>
