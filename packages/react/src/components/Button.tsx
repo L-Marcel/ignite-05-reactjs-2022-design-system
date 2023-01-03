@@ -79,6 +79,17 @@ export const Button = styled('button', {
         padding: '0 $4',
         height: 46,
       },
+      icon: {
+        padding: '0 0',
+        minWidth: 46,
+        width: 46,
+        height: 46,
+
+        svg: {
+          width: 26,
+          height: 26,
+        },
+      },
     },
   },
 

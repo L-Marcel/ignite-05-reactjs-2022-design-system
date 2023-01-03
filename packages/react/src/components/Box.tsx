@@ -1,5 +1,5 @@
 import { ComponentProps } from '@stitches/react'
-import { styled } from '../styles'
+import { styled } from '../styles/stitches.config'
 import { ElementType } from 'react'
 
 export const Box = styled('div', {

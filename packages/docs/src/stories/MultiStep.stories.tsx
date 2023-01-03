@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@lm-ignite/react-ignite-tokens'
+import { Box, MultiStep, MultiStepProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@lm-ignite/react-ignite-tokens'
+import { Heading, HeadingProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@lm-ignite/react-ignite-tokens'
+import { Text, TextProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

@@ -3,7 +3,7 @@ import {
   Text,
   TextInput,
   TextInputProps,
-} from '@lm-ignite/react-ignite-tokens'
+} from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

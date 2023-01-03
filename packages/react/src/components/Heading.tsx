@@ -1,5 +1,5 @@
 import { ComponentProps } from '@stitches/react'
-import { styled } from '../styles'
+import { styled } from '../styles/stitches.config'
 
 import { headingFontSizes } from '@lm-ignite/ignite-tokens'
 import { ElementType } from 'react'

@@ -19,6 +19,7 @@
     "@storybook/addon-interactions": "^6.5.15",
     "@storybook/addon-links": "^6.5.15",
     "@storybook/builder-webpack5": "^6.5.15",
+    "@storybook/client-api": "^6.5.15",
     "@storybook/manager-webpack5": "^6.5.15",
     "@storybook/react": "^6.5.15",
     "@storybook/storybook-deployer": "^2.8.16",
@@ -31,7 +32,7 @@
   "dependencies": {
     "@lm-ignite/eslint-config": "*",
     "@lm-ignite/ignite-tokens": "*",
-    "@lm-ignite/react-ignite-tokens": "*",
+    "@lm-ignite/react-ignite": "*",
     "@lm-ignite/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",

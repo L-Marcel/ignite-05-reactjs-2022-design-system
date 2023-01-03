@@ -1,6 +1,6 @@
 {
   "name": "@lm-ignite/ignite-tokens",
-  "version": "2.1.0",
+  "version": "2.3.0",
   "description": "",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -14,12 +14,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "typescript": "^4.9.4",
-    "lint": "eslint src/**/*.ts* --fix"
+    "typescript": "^4.9.4"
   },
   "devDependencies": {
-    "@lm-ignite/ts-config": "*",
     "@lm-ignite/eslint-config": "*",
+    "@lm-ignite/ts-config": "*",
     "tsup": "^6.5.0"
   }
 }

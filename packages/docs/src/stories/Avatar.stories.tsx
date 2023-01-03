@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@lm-ignite/react-ignite-tokens'
+import { Avatar, AvatarProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

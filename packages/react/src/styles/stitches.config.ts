@@ -8,7 +8,7 @@ import {
 } from '@lm-ignite/ignite-tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
-import { lineHeights } from '../../../tokens/src/line-heights'
+import { lineHeights } from '@lm-ignite/ignite-tokens/src/line-heights'
 
 export const {
   styled,
