@@ -1,5 +1,6 @@
 {
   "pinned": true,
+  "translatedDescription": "Um design system documentado no Storybook e feito em um monorepo.",
   "links": {
     "figma": "https://www.figma.com/file/69Xmjd50wGzTh0Fsfwa2Ff/Ignite-Call-(Copy)?node-id=4%3A412&t=fWnjSYVr4XDbqhHe-1",
     "documentation": "https://l-marcel.github.io/ignite-05-reactjs-2022-design-system/",

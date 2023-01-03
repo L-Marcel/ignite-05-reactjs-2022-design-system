@@ -26,7 +26,7 @@
 <div id="grid">
   <div id="grid-item">
     <h2>What did I <span>do</span>?</h2>
-    <p>I developed a <span>design system</span> documented in Storybook and using a <span>monorepo</span>, which contains the following components:</p>
+    <p>I developed a <span>design system</span> documented in the Storybook and made in a <span>monorepo</span>, which contains the following components:</p>
     <ul>
       <li id="checked"><p>Text;</p></li>
       <li id="checked"><p>Box;</p></li>
