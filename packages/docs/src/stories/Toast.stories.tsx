@@ -18,6 +18,13 @@ export default {
     title: 'Agendamento realizado',
     description: 'Quarta-feira, 23 de Outubro às 16h',
   },
+  parameters: {
+    previewTabs: {
+      'storybook/docs/panel': {
+        hidden: true,
+      },
+    },
+  },
 } as Meta<ToastProps>
 
 export const Primary = ({ ...props }: ToastProps) => {
