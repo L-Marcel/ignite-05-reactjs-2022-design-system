@@ -1,9 +1,4 @@
-import {
-  Box,
-  Text,
-  TextInput,
-  TextInputProps,
-} from '@lm-ignite/react-ignite'
+import { Box, Text, TextInput, TextInputProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
@@ -15,7 +10,12 @@ export default {
       return (
         <Box
           as="label"
-          css={{ display: 'flex', flexDirection: 'column', gap: '$2' }}
+          css={{
+            display: 'flex',
+            minWidth: '50vw',
+            flexDirection: 'column',
+            gap: '$2',
+          }}
         >
           <Text size="sm">Username</Text>
           {Story()}

@@ -1,9 +1,4 @@
-import {
-  Box,
-  Text,
-  Checkbox,
-  CheckboxProps,
-} from '@lm-ignite/react-ignite'
+import { Box, Text, Checkbox, CheckboxProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
@@ -15,7 +10,12 @@ export default {
       return (
         <Box
           as="label"
-          css={{ display: 'flex', flexDirection: 'row', gap: '$2' }}
+          css={{
+            display: 'flex',
+            alignItems: 'center',
+            flexDirection: 'row',
+            gap: '$2',
+          }}
         >
           {Story()}
           <Text size="sm">Accept terms of use</Text>

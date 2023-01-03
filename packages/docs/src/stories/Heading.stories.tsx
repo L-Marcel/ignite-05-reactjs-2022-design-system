@@ -1,5 +1,6 @@
 import { Heading, HeadingProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
+import { Box } from '../../../react/src/components/Box'
 
 export default {
   title: 'Typography/Heading',
@@ -12,6 +13,22 @@ export default {
     children: 'Lorem ipsum dolor.',
     size: 'md',
   },
+  decorators: [
+    (Story) => {
+      return (
+        <Box
+          css={{
+            display: 'flex',
+            maxWidth: '70vw',
+            flexDirection: 'column',
+            gap: '$2',
+          }}
+        >
+          {Story()}
+        </Box>
+      )
+    },
+  ],
 } as Meta<HeadingProps>
 
 export const Primary: StoryObj<HeadingProps> = {}

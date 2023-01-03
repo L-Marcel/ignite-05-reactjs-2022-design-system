@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@lm-ignite/react-ignite'
+import { Box, Text, TextProps } from '@lm-ignite/react-ignite'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
@@ -26,6 +26,22 @@ export default {
       },
     },
   },
+  decorators: [
+    (Story) => {
+      return (
+        <Box
+          css={{
+            display: 'flex',
+            maxWidth: '70vw',
+            flexDirection: 'column',
+            gap: '$2',
+          }}
+        >
+          {Story()}
+        </Box>
+      )
+    },
+  ],
   args: {
     size: 'md',
     children:
