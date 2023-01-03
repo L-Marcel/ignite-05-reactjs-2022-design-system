@@ -1,5 +1,11 @@
 # @lm-ignite/react-ignite
 
+## 2.4.0
+
+### Minor Changes
+
+- Adding custom components display names
+
 ## 2.3.0
 
 ### Minor Changes

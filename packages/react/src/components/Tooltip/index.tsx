@@ -17,3 +17,5 @@ export function Tooltip({ children, text, ...props }: TooltipProps) {
     </TooltipContainer>
   )
 }
+
+Tooltip.displayName = 'Tooltip'

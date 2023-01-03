@@ -45,3 +45,5 @@ export function Toast({
     </ToastContainer>
   )
 }
+
+Toast.displayName = 'Toast'
